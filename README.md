@@ -1,6 +1,6 @@
 <p align="center"><img src="https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif" alt="banner" width="auto" height="auto" /></p>
 
-<h1 align="center">Hi 👋, I'm Sai Gyaneshwar</h1>
+<h1 align="center">Hi 👋<br> I'm Sai Gyaneshwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saigyani&label=Profile%20views&color=0e75b6&style=flat" alt="saigyani" /> </p>
