@@ -2,7 +2,7 @@
 
 <link rel="styleshhet" src="style.css">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai Gyaneshwar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,<br> I'm Sai Gyaneshwar</h1>
 <h3 align="center">I'm a passionate Full Web Stack Developer from India.</h3>
 
 
