@@ -1,4 +1,4 @@
-<p align="center"><img src="https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif" alt="banner" width="400px" height="400px" /></p>
+<p align="center"><img src="https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif" alt="banner" width="auto" height="auto" /></p>
 
 <h1 align="center">Hi 👋, I'm Sai Gyaneshwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
