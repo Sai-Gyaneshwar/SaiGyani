@@ -1,4 +1,4 @@
-<center><a href="#"><img align="center" src="style.svg" width="450px" height="450px"></a></center>
+<center><img src="style.svg" width="450px" height="450px"></center>
 
 <link rel="styleshhet" src="style.css">
 
