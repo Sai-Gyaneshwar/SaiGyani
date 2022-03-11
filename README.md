@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [my website](http://sai.42web.io/)
+- 👨‍💻 All of my projects are available at [My Website](http://sai.42web.io/)
 
 - 💬 Ask me about **Adobe XD, CSS, HTML**
 
 - 📫 How to reach me **saigyaneshwar2@gmail.com**
 
-- 📄 Know about my experiences at [my website](http://sai.42web.io/)
+- 📄 Know about my experiences [Click Here](http://sai.42web.io/)
 
 - ⚡ Hobbies **I play video games and video editing.**
 
