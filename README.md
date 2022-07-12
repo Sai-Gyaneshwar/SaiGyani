@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [My Website](http://sai.42web.io/)
+- 👨‍💻 All of my projects are available at [My Website](https://sai.42web.io/)
 
 - 💬 Ask me about **Adobe XD, CSS, HTML**
 
